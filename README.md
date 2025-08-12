@@ -63,7 +63,7 @@ This project trains a machine learning model to:
 ## ⚡ Quick Start
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/shipment-delay-prediction.git
+git clone https://github.com/adwaiths05/shipment-delay-prediction.git
 cd shipment-delay-prediction
 ```
 **2. Install dependencies**
