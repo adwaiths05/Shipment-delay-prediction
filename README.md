@@ -59,3 +59,20 @@ This project trains a machine learning model to:
 4. **Explainability**
    - Global SHAP summary plots
    - Local force plots for individual predictions
+
+## ⚡ Quick Start
+**1. Clone the repository**
+```bash
+git clone https://github.com/yourusername/shipment-delay-prediction.git
+cd shipment-delay-prediction
+```
+**2. Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+**3. Run Jupyter Notebook**
+
+```bash
+jupyter notebook notebooks/shipment_delay_prediction.ipynb
+```
