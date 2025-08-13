@@ -9,7 +9,7 @@ This project uses a synthetic dataset simulating real-world logistics operations
 Logistics companies need to proactively detect potential delays to optimize routing, choose the right carriers, and reduce operational costs.  
 This project trains a machine learning model to:
 - Predict **whether a shipment will be delayed**
-- Provide **feature importance and explanations** for each prediction
+- Provide **explanations** for each prediction
 
 ---
 
